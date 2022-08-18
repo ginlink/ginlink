@@ -1,6 +1,6 @@
 ### Hi 👋 I'm gin
 
-- 🌱 I’m a blockchain front-end engineer,  learning `English` and `Node`  very hard!
+- 🌱 I’m a blockchain front-end engineer,  learning `English` and `Rust`  very hard!
 - :smile: My blog: https://gincool.com
 - :email: Email: ginlink1998@gmail.com
 
